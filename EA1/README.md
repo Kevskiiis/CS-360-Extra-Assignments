@@ -1,7 +1,8 @@
 # Activity: Crimson Code Hackathon
 - Note: There is an image in the "EA1" folder that serves as proof of completion. There is also a link to the project that was made.
 
-![Proof of completion](Hackathon_Screenshot.png) 
+## Project Link
+- [Hackathon Project](https://github.com/Kevskiiis/hackathon_2026)
 
 ## Activity Description
 - I participated in the WSU Crimson Code 24 hour hackathon. We were expected to create a project in 24 hours that resonates with a given theme, which was, “Reinvent the wheel”. We were expected to re-create a product or idea that has been proven to work, and expand on it by adding more features.
@@ -14,6 +15,3 @@
 
 ## Quality Assessment
 - If I was able to redo the event, I would have included the integration of AI into our project. There were a lot more features that we could have added to our app, had we included an AI model that we could train and simply integrate. It has also been applied a lot in the real world so it would have been a good skill to learn. 
-
-## Project Link
-- [Hackathon Project](https://github.com/Kevskiiis/hackathon_2026)
