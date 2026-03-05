@@ -1,7 +1,7 @@
 # Activity: Crimson Code Hackathon
 - Note: There is an image in the "EA1" folder that serves as proof of completion. There is also a link to the project that was made.
 
-![Proof of completion](Hackathon Screenshot.png)  
+![Proof of completion]("Hackathon Screenshot.png")  
 
 ## Activity Description
 - I participated in the WSU Crimson Code 24 hour hackathon. We were expected to create a project in 24 hours that resonates with a given theme, which was, “Reinvent the wheel”. We were expected to re-create a product or idea that has been proven to work, and expand on it by adding more features.
