@@ -9,3 +9,6 @@
 
 ## Quality Assessment
 - If I was able to redo the event, I would have included the integration of AI into our project. There were a lot more features that we could have added to our app, had we included an AI model that we could train and simply integrate. It has also been applied a lot in the real world so it would have been a good skill to learn. 
+
+## Project Link
+- [Hackathon Project](https://github.com/Kevskiiis/hackathon_2026)
