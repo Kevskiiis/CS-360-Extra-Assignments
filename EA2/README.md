@@ -1,4 +1,4 @@
-# Activity: NVIDIA Deep Learning Hands-on Training
+## Activity: NVIDIA Deep Learning Hands-on Training
 - Note: There is an image in the "EA2" folder that serves as proof of completion. However, there is no project that I took home from this event, so I do not have a Github repo to show the hands portion. The reason for this is because all the work was done on NVIDIAs learning platform, which closed access after completing the workshop. 
 
 ## Certification Image 
