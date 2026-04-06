@@ -2,7 +2,7 @@
 - Note: There is an image in the "EA2" folder that serves as proof of completion. However, there is no project that I took home from this event, so I do not have a Github repo to show the hands portion. The reason for this is because all the work was done on NVIDIAs learning platform, which closed access after completing the workshop. 
 
 ## Certification Image 
-- [Hackathon Project](https://github.com/Kevskiiis/hackathon_2026)
+- ![Certification Image](NVIDIA_Deep_Learning_Cert.jpg)
 
 ## Activity Description
 - I participated in a NVIDIA Deep Learning Workshop. During this workshop, I was expected to learn about the basics of training a neural network, the different kinds of AI training, and a small section regarding AI vision. Towards the end of this event, I also took a test based on what I had learned from workshop and I recieved a NVIDIA certification.
