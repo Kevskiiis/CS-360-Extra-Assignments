@@ -1,7 +1,7 @@
 ## Activity Description
 During spring break, I participated in a career field trip for a program called the Team Mentoring Program. We visted locations such as Boeing, Alaska Airlines, and Microsoft to learn about all the different opportunities available to students.  
 
-## Professional Decisions
+## Professional Decisions & Contributions
 During this three‑day trip, I made an effort to focus on networking. While we visisted each location, I took the time to speak with the professionals who guided us through the tours. Many of them offered valuable insights, and one piece of advice in particular stayed with me, “You are two things throughout your life, the people you surround yourself with and the things you read.” That perspective helped me see the importance of being intentional about the relationships I build and the knowledge I choose to pursue as I continue developing professionally.
 
 ## Quality Assessment
